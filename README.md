@@ -1,0 +1,1 @@
+Final project for Neural Machine Learning course, partnered with Berk Norman. Used neural networks to classify 4-D brain scans of patients as either necrotic or recurrent following treatment for brain cancer. In addition to classification, we used PCA and self-organizing maps to understand and interpret the data more effectively.
